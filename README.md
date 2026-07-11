@@ -10,4 +10,4 @@
 
 ![LinkedIn](https://www.linkedin.com/in/shreya-pandey-342142289)
 
-![](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,docker)
+![](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,html,ai,ml,llm,rag,tailwind,mongodb,postgresql,docker)
