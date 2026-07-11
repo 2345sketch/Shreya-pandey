@@ -4,7 +4,7 @@
 - 🚀 My projects yet to come
 - 📫 Reach me at → shreyaranchi422@gmail.com
 
-- div align="left">
+  
   <a href="https://www.linkedin.com/in/shreya-pandey-342142289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
