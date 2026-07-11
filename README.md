@@ -5,6 +5,6 @@
 - 📫 Reach me at → shreyaranchi422@gmail.com
 
 
-💻
+-SKILLS 💻
 
 ![](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,html,ai,tailwind,mongodb,postgresql,docker)
